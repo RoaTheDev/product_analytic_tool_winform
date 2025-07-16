@@ -153,13 +153,14 @@ dotnet restore
 
 1. **Launch the application**
 2. **Select Date Range**: Choose start and end dates using the DateTimePicker controls
-3. **Generate Report**: Click the "Generate Report" button
-4. **View Results**: The report will display with:
+3. **Filter by Product Name**: Filter by product name (Optional)
+4. **Generate Report**: Click the "Generate Report" button
+5. **View Results**: The report will display with:
    - Products grouped by product code
    - Total quantity sold per product
    - Total revenue per product
    - Grand totals at the bottom
-5. **Export** (if implemented): Use export buttons to save as PDF
+6. **Export** : Use export buttons to save as PDF
 
 ## 🔧 Error Handling & Logging
 
