@@ -43,8 +43,7 @@ Before running this application, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone [your-repository-url]
-cd product-sales-reporting-tool
+git clone https://github.com/RoaTheDev/product_analytic_tool_winform.git
 ```
 
 ### 2. Database Setup
