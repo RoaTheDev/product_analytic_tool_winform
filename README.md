@@ -133,10 +133,10 @@ dotnet restore
 ├── Config/
 │   └── LoggerConfig.cs         # Serilog Config
 │   └── ConfigLoader.cs         # Load Configuration
-├── logs/                       # It will create this folder if not exist
-│   └── errors{the time it was created}.cs  # if there an error it will create this file 
+├── logs/                       # It will create this folder if not exist along with the errors.txt
+│   
 │
-├── Services/                   # Business logic
+├── Services/                   # Business logic layer
 │   └── SalesService.cs         
 ├── Repo/                       # Data access layer
 │   └── SaleRepo.cs             
@@ -145,7 +145,7 @@ dotnet restore
 ├── Forms/
 │   └── SaleReportForm.cs       # Sale WinForms UI
 ├── appsettings.json            # Configuration file
-├── AppDb.json                  # Database Connection
+├── AppDb.cs                    # Database Connection
 └── Program.cs                  # Entry point
 ```
 
@@ -206,7 +206,7 @@ All required NuGet packages are included in the `.csproj` file:
 
   ![If no product provided](./report_ex1.png)
 
-- Output 1 (Provided product name in the text box)
+- Output 1 (Provided product name)
  ![If product name provide](./report_ex2.png)
 ---
 
