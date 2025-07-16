@@ -4,13 +4,13 @@ A WinForms application that connects to SQL Server database to fetch, filter, an
 
 ## 🎯 Features
 
-- **Date Range Filtering:**: Select start and end dates to filter sales data
+- **Date Range Filtering:** Select start and end dates to filter sales data
 - **Filter by ProductName:** Support Filter by Product Name (Optional Field)
-- **DevExpress Reporting:**: Professional reports with grouping by product code
+- **DevExpress Reporting:** Professional reports with grouping by product code
 - **Report Parameters in Header:** Have period between start and end date in the header
 - **Stored Procedure:** Data access via stored procedure
-- **Logging**: Comprehensive error logging using Serilog
-- **Export Options:**: Export reports to PDF
+- **Logging:** Comprehensive error logging using Serilog
+- **Export Options:** Export reports to PDF
 - **Khmer Font Support:** Via unicode friendly font "Segoe UI font"
 ## 🛠️ Technology Stack
 
