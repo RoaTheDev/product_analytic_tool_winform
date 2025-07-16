@@ -204,10 +204,10 @@ All required NuGet packages are included in the `.csproj` file:
 ##  Output Example
 - Output 1 (Product name is not provided)
 
-  ![If no product provided](./report_ex1)
+  ![If no product provided](./report_ex1.png)
 
 - Output 1 (Provided product name in the text box)
- ![If product name provide](./report_ex2)
+ ![If product name provide](./report_ex2.png)
 ---
 
 **Developer**: Roern Chamreun [Roa]  
