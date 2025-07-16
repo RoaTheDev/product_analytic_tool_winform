@@ -206,7 +206,7 @@ All required NuGet packages are included in the `.csproj` file:
 
   ![If no product provided](./report_ex1.png)
 
-- Output 1 (Provided product name)
+- Output 2 (Provided product name)
  ![If product name provide](./report_ex2.png)
 ---
 
